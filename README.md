@@ -27,4 +27,4 @@ I am also a student at [USJT](https://www.usjt.br).
 
 ## Badges
 
-<a href="http://www.github.com/Nypziin"><img src="https://github-readme-stats-Nypziin.vercel.app/api?username=Nypziin&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Nypziin's GitHub stats" /></a>
+<a href="http://www.github.com/Nypziin"><img src="https://github-readme-stats.vercel.app/api?username=nypziin&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true" alt="Nypziin's GitHub stats" /></a>
