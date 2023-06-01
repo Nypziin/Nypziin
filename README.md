@@ -4,7 +4,7 @@ Hi 👋 My name is Natan Cardoso!
 I'm a beginner developer :)
 -----------------------------
 
-I'm a 20 years old developer since I was 19. I love to code and figure it out how to solve deep problems. My main focus are back-end development.
+I'm a 20 years old developer, studying since 2022. I love to code and figure it out how to solve deep problems. My main focus are back-end development.
 
 I am also a student at [USJT](https://www.usjt.br).
 
