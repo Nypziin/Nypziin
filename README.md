@@ -11,7 +11,7 @@ I am also a student at [USJT](https://www.usjt.br).
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [contato.nypziin@gmail.com](mailto:contato.nypziin@gmail.com)
 * 🧠  I'm learning Java and Python
-* ⚡  I love sports and my favorite is soccer
+* ⚡  I love sports and my favorite is football
 
 ### Skills
 
