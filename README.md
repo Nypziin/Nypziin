@@ -13,13 +13,12 @@ I am also a student at [USJT](https://www.usjt.br).
 * 🧠  I'm learning Java and Python
 * ⚡  I love sports and my favorite is soccer
 
-<a href="https://www.github.com/Nypziin" target="_blank" rel="noreferrer"><img
-
 ### Skills
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="50" height="40" alt="Python" /></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="50" height="40" alt="Java" /></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="50" height="40" alt="MySQL" /></a>
 </p>
 
 ### Socials
