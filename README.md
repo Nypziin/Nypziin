@@ -19,6 +19,10 @@ I am also a student at [USJT](https://www.usjt.br).
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="115" height="40" alt="Python" /></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="115" height="40" alt="Java" /></a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="115" height="40" alt="MySQL" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="115" height="40" alt="Git" /></a>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="115" height="40" alt="SQLite" /></a>
+<a href="www.microsoft365.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" width="115" height="40" alt="Microsoft Visio" /></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="115" height="40" alt="Git" /></a>
 </p>
 
 ### Socials
