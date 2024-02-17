@@ -1,17 +1,13 @@
 Hi 👋 My name is Natan Cardoso!
 ==========================
 
-I'm a beginner developer :)
------------------------------
+I'm a 21 years old developer, studying since 2022. I love to code and figure it out how to solve deep problems. My main focus are back-end development.
 
-I'm a 20 years old developer, studying since 2022. I love to code and figure it out how to solve deep problems. My main focus are back-end development.
-
-I am also a student at [USJT](https://www.usjt.br).
+I'm also a computer science student at [USJT](https://www.usjt.br).
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [contato.nypziin@gmail.com](mailto:contato.nypziin@gmail.com)
-* 🧠  I'm learning Java and Python
-* ⚡  I love sports and my favorite is football
+* 🧠  Always studying
 
 ### Skills
 
